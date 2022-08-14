@@ -1,6 +1,6 @@
 # MNIST
 
-![](https://img.shields.io/badge/Java-1.8-informational)
+![](https://img.shields.io/badge/Java-17-informational)
 
 机器学习第一课 ———— 用纯Java实现的MNIST
 
